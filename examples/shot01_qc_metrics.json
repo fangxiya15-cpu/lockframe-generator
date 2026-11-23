@@ -1,0 +1,18 @@
+{
+  "width": 720,
+  "height": 1280,
+  "fps": 24.0,
+  "duration": 5.0,
+  "frames_sampled": 20,
+  "motion_energy": 33.48,
+  "lower_body_motion": 39.9,
+  "flicker": 4.157,
+  "gates_suggested": {
+    "finish": true,
+    "performance": true,
+    "cinematography": null,
+    "consistency": null,
+    "scene": null,
+    "voice": null
+  }
+}
